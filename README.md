@@ -22,5 +22,9 @@ Automated Logging: Every run is captured in a timestamped .log file for audit tr
 Getting started is straightforward. Give the script execution permissions and run it:
 
 **Bash**
+
+
 chmod +x myscript.sh
+
+
 ./myscript.sh
